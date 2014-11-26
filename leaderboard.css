@@ -98,7 +98,7 @@ body {
 
 .player.selected {
   background-color: #fefff4;
-  border-left: blue 4px solid;
+  border-left: #eb5f3a 4px solid;
 }
 
 .player:hover {
@@ -120,9 +120,9 @@ body {
 
 .details .inc {
   border-radius: 3em;
-  border: blue 1px solid;
+  border: #eb5f3a 1px solid;
   background: transparent;
-  color: blue;
+  color: #eb5f3a;
   cursor: pointer;
   float: right;
   font-family: 'Source Sans Pro' ,'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -135,7 +135,7 @@ body {
 }
 
 .inc:hover {
-  background: blue;
+  background: #eb5f3a;
   color: #fff;
 }
 
